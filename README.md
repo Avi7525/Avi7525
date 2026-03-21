@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋,I'm Durga Sai Avinash Donga</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
